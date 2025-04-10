@@ -1,4 +1,3 @@
-<!-- Ejercicio 2: Ordenar las películas por el año de publicación -->
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Este XSLT muestra  -->
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
@@ -16,7 +15,7 @@
                         <th>Duración</th>
                     </tr>
                     <xsl:for-each select="pelicula">
-                        <xsl:sort select="anio" data-type="number" order="ascending" />
+                        <xsl:sort select="anio"/>
                         <tr>
                             <td><xsl:value-of select="titulo" /></td>
                             <td><xsl:value-of select="director" /></td>

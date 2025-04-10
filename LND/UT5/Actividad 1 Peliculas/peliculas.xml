@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<?xml-stylesheet type="text/xsl" href="tablaPeliculas2.xsl"?>
+<?xml-stylesheet type="text/xsl" href="peliculas5.xslt"?>
 <peliculas>
 	<pelicula>
 		<titulo>Sonrisas y Lágrimas</titulo>
@@ -36,5 +36,5 @@
 		<anio>1966</anio>
 		<duracion>161</duracion>
 	</pelicula>
-<peliculas>
+</peliculas>
 	
