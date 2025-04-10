@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="ciclos1.xslt"?>
+<?xml-stylesheet type="text/xsl" href="ciclos5.xslt"?>
 <ies nombre="CIFP Villa de Agüimes" web="https://www.cifpvilladeaguimes.es" >
   <ciclos>
     <ciclo id="DAW">
