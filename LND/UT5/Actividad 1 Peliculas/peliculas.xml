@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="tablaPeliculas2.xsl"?>
+<peliculas>
+	<pelicula>
+		<titulo>Sonrisas y Lágrimas</titulo>
+		<director>Robert Wise</director>
+		<genero>Musical</genero>
+		<anio>1965</anio>
+		<duracion>172</duracion>
+	</pelicula>
+	<pelicula>
+		<titulo>Psicosis</titulo>
+		<director>Alfred Hitchcock</director>
+		<genero>Terror</genero>
+		<anio>1960</anio>
+		<duracion>109</duracion>
+	</pelicula>
+	<pelicula>
+		<titulo>Vacaciones en Roma</titulo>
+		<director>Willian Wyler</director>
+		<genero>Comedia Romántica</genero>
+		<anio>1953</anio>
+		<duracion>118</duracion>
+	</pelicula>
+	<pelicula>
+		<titulo>ET</titulo>
+		<director>Steven Spielberg</director>
+		<genero>Ciencia Ficción</genero>
+		<anio>1982</anio>
+		<duracion>115</duracion>
+	</pelicula>
+	<pelicula>
+		<titulo>El bueno, el feo y el malo</titulo>
+		<director>Sergio Leone</director>
+		<genero> Western</genero>
+		<anio>1966</anio>
+		<duracion>161</duracion>
+	</pelicula>
+<peliculas>
+	
