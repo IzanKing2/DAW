@@ -66,7 +66,3 @@ En esta actividad practicarás los conceptos fundamentales de la programación c
 
 ## 🚀 Reflexión
 Estos ejercicios están diseñados para introducirte de forma práctica al mundo de la programación. A través de **PSeInt** y la resolución de problemas básicos, construirás una base sólida en el pensamiento lógico y algorítmico. ¡Sigue practicando y diviértete programando! 🎉
-
----
-
-✨ **¡Buena suerte!** Si tienes dudas, no dudes en consultarlas con tu instructor/a o compañeros/as. 😊
