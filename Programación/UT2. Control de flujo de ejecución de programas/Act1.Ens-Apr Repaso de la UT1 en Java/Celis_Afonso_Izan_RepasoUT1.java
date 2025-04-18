@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class HelloWorld{
+class HelloWorld{
 
     public static void main(String []args){
    // 1. Comentarios.
