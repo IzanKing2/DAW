@@ -91,4 +91,4 @@ Este proyecto está bajo la licencia **Apache 2.0**. Consulta el archivo `LICENS
 
 ---
 
-✨ _Desarrollado con ❤️ por [Tu Nombre]._
+✨ _Desarrollado con ❤️ por Izan Carlo Celis Afonso._
